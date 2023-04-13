@@ -1,0 +1,15 @@
+[features]
+seeds = false
+[programs.devnet]
+medias = "5Z4fqtT4faiDGKzgs5VxjjyP33jHmBRMksSkR5RGz2Kf"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/vmmuthu31/solana-release/media/target/deploy/Vm-keypair.json"
+
+[scripts]
+test = "yarn run mocha -t 1000000 tests/"
+
