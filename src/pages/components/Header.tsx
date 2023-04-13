@@ -33,8 +33,8 @@ function Header() {
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
               <h3 className="text-yellow-400 font-AgrandirGrandHeavy leading-[62px] font-extrabold text-3xl md:text-5xl">
-						ZK
-						<span className='text-blue-600'>Media </span>
+						Gari
+						<span className='text-blue-600'>Learn </span>
 					</h3>
             </a>
           </div>
@@ -66,8 +66,8 @@ function Header() {
                 <span className="sr-only">Your Company</span>
          
               <h3 className="text-yellow-400 font-AgrandirGrandHeavy leading-[62px] font-extrabold text-3xl">
-						ZK
-						<span className='text-blue-600'>Media</span>
+						Gari
+						<span className='text-blue-600'>Learn</span>
 					</h3>
            
               </a>

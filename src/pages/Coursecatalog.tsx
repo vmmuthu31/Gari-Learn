@@ -9,6 +9,7 @@ const courses = [
     instructor: "Gyan",
     subject: "Blockchain",
     price: 50,
+    href: "/JoinClass",
     image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQMke_x7-AtkveJlVApKPWJtYG2BQf7RxjF_R7Tl0gt4lfx9yLcRuKlrfmyZ5e3cJDSrnW9oP1Ov2x65ySOU-6d5HFNb4lbWIkhfqe1DqTS4KUbqHh7a1GdK_m_4yBHlXAT35_DiRRczyvtWiVHWqlO9WDRtEODUAssXirMe5ogMA79KpQ76-R4iKt",
   },
   {
@@ -17,6 +18,7 @@ const courses = [
     instructor: "Smith",
     subject: "Artificial Intelligence",
     price: 75,
+    href: "/JoinClass2",
     image: "https://source.unsplash.com/random/400x250",
   },
   // Add more courses as needed

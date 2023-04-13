@@ -38,7 +38,7 @@ const JoinClass = ({ streamKey }) => {
           />
           <h2 className="text-lg font-bold mb-4">Learn BlockChain Basics</h2>
           <div className='flex justify-between'>
-            <p className="text-gray-500 mb-4">Instructor: John Doe</p>
+            <p className="text-gray-500 mb-4">Instructor: Gyan</p>
             {isComplete ? (
               <button className="px-3 py-2 mb-2 bg-blue-600 rounded-xl"  onClick={handleMarkComplete}>
                 Download Certificate
@@ -63,7 +63,7 @@ const JoinClass = ({ streamKey }) => {
             alt="Certificate Template"
           />
           <p>Certificate of Completion</p>
-          <p>Presented to John Doe</p>
+          <p>Presented to Gyan</p>
         </div>
         <p className="text-gray-500 hidden ">
           Class Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
