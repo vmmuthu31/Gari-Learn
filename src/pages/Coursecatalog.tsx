@@ -14,7 +14,7 @@ const courses = [
   },
   {
     id: 2,
-    title: "Machine Learning for Beginners",
+    title: "Introductin to Cyber Security for Beginners",
     instructor: "Smith",
     subject: "Artificial Intelligence",
     price: 75,
